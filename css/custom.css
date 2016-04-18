@@ -1,9 +1,8 @@
 .main-content{
     position: fixed;
     color: #FFFFFF;
-    margin-left: auto;
-    margin-right: auto; 
-    margin-top: 50%;
+    margin: 0 auto;
+    width: 100px; 
 }
 
 video#bgvid { 
