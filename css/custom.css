@@ -13,8 +13,9 @@ h1 {
 
 a:link {
 	text-decoration: none;
-	color: #FFFFFF;
+	color: white;
 }
+
 .main-content{
 	opacity: 0.65;
     color: #FFFFFF;
