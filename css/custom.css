@@ -7,12 +7,12 @@ h1 {
 .main-content{
 	opacity: 0.6;
     color: #FFFFFF;
-	width:300px;
+	width:500px;
 	height:100px;
 	position:absolute;
 	left:50%;
 	top:50%;
-	margin:-65px 0 0 -165px;
+	margin:-65px 0 0 -265px;
     padding: 20px;
     border:15px solid white;
     	text-align: center;
