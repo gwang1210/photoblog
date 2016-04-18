@@ -4,6 +4,9 @@
 h1 {
 	font-size: 6em;
 }
+#vidpause {
+	border-radius: 80%
+}
 .main-content{
 	opacity: 0.65;
     color: #FFFFFF;
