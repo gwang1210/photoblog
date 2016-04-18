@@ -2,7 +2,7 @@
     color: #FFFFFF;
     width: 240px; 
     height: 100px;
-    margin: auto auto;
+    margin: auto auto auto auto;
     border:10px solid white;
 }
 
