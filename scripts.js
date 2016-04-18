@@ -13,9 +13,9 @@ pauseButton.addEventListener("click", function() {
     vid.classList.toggle("stopfade");
 	if (vid.paused) {
 vid.play();
-		pauseButton.innerHTML = "&loz";
+		pauseButton.innerHTML = "&loz;";
 	} else {
         vid.pause();
-        pauseButton.innerHTML = "&diams";
+        pauseButton.innerHTML = "&diams;";
 	}
 })
