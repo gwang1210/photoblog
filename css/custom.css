@@ -1,8 +1,7 @@
 .main-content{
-    position: fixed;
     color: #FFFFFF;
-    width: 240; 
-    height: 100;
+    width: 240px; 
+    height: 100px;
     margin: auto;
     border:10px solid white;
 }
