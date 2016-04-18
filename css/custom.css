@@ -14,3 +14,15 @@ video#bgvid {
     background: url(thumbnail.png) no-repeat;
     background-size: cover; 
 }
+@media screen and (max-device-width: 800px) {
+    html {
+         background: url(polina.jpg) #000 no-repeat center center fixed;
+    }
+    #bgvid {
+        display: none;
+    }
+}
+video#bgvid {
+    transition: 1s opacity;
+}
+.stopfade { opacity: .5; }
