@@ -1,7 +1,7 @@
 .main-content{
     position: fixed;
     color: #FFFFFF;
-    margin: 0 auto;
+    margin: auto;
     width: 100px; 
     border:10px solid white;
 }
