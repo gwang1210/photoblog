@@ -1,3 +1,9 @@
+.main-content{
+    position: fixed;
+    top: 50%;
+    left: 50%
+}
+
 video#bgvid { 
     position: fixed;
     top: 50%;
@@ -25,5 +31,7 @@ img {
 }
 video#bgvid {
     transition: 1s opacity;
+    
+
 }
 .stopfade { opacity: .5; }
