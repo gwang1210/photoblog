@@ -58,7 +58,7 @@ img {
 }
 @media screen and (max-device-width: 800px) {
     html {
-         background: url(thumbnail.png) #000 no-repeat center center fixed;
+         background: url(../thumbnail.png) #000 no-repeat center center fixed;
     }
     #bgvid {
         display: none;
