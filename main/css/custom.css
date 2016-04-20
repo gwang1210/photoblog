@@ -12,7 +12,9 @@ h3 {
 	opacity: 0.7;
 	color:white;
 }
-
+img {
+	width: 100%;
+}
 
 .header {
     background-color: black;
