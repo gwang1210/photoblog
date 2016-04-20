@@ -1,0 +1,45 @@
+h1 {
+	margin: 50px;
+	font-size: 3em;
+	border: 10px solid white;
+	opacity: 0.7;
+	color:white;
+}
+h3 {
+	border-top: 10px solid white;
+	border-bottom: 10px solid white;
+	opacity: 0.7;
+	color:white;
+}
+img {
+	width: 100%;
+	padding-bottom: 20px;
+}
+a:link {
+	text-decoration: none;
+	color: white;
+}
+a:visited {
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	text-decoration: none;
+	color: white;
+}
+.header {
+	 background-color: black;
+	 background: url(http://placehold.it/1200x100) no-repeat center center fixed; 
+    	-webkit-background-size: cover;
+    	-moz-background-size: cover;
+    	-o-background-size: cover;
+	 background-size: cover;
+	 margin-bottom: 30px;
+}
+
+.gallery {
+	padding-left: 5 !important;
+    	padding-right: 5 !important;
+    	padding-bottom: 5 !important;
+}
+
