@@ -7,14 +7,14 @@ h1 {
 h3 {
 	
 	border-top: 10px solid white;
-	border-top: 10px solid white;
+	border-bottom: 10px solid white;
 	opacity: 0.7;
 	color:white;
 }
 
 body {
     background-color: black;
-    background: url(http://placehold.it/12000x300) no-repeat center center fixed; 
+    background: url(http://placehold.it/1200x300) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
