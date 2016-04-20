@@ -30,7 +30,7 @@ a:hover {
 }
 .header {
     background-color: black;
-    background: url(http://placehold.it/1200x100) no-repeat center center fixed; 
+    background: url(http://placehold.it/1200x300) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
