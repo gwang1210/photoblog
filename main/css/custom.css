@@ -1,1 +1,7 @@
-
+h1 {
+	font-size: 3em;
+	border: 10px solid white;
+	opacity: 0.7;
+	color:white;
+	
+}
