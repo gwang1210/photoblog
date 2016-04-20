@@ -13,7 +13,7 @@ h3 {
 }
 img {
 	width: 100%;
-	padding-bottom: 20px;
+	padding-bottom: 30px;
 }
 a:link {
 	text-decoration: none;
@@ -40,6 +40,5 @@ a:hover {
 .gallery {
 	padding-left: 5 !important;
     	padding-right: 5 !important;
-    	padding-bottom: 5 !important;
 }
 
