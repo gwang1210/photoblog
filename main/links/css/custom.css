@@ -36,5 +36,8 @@ a:hover {
     -o-background-size: cover;
     background-size: cover;
     margin-bottom: 50px;
-    
+}
+#gallery {
+	padding-left: 5px;
+	padding-right: 5px;
 }
