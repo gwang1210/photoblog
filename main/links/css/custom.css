@@ -43,7 +43,7 @@ a:hover {
     	padding-bottom: 5 !important;
 }
 
-.bgvid { 
+video { 
     position: fixed;
     width: 100%;
     height: auto;
