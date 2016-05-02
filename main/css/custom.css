@@ -31,10 +31,10 @@ a:hover {
 .header {
     background-color: black;
     background: url(../home.jpg) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    /*-webkit-background-size: cover;*/
+    /*-moz-background-size: cover;*/
+    /*-o-background-size: cover;*/
+    background-size: auto 100%;
     margin-bottom: 30px;
     
 }
