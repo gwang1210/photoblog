@@ -41,6 +41,6 @@ a:hover {
 	border-color: #000000;
 	color: #737373;
 }
-h4 {
-	color: #737373;;
+h4, h2 {
+	color:black;
 }
