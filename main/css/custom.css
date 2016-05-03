@@ -47,3 +47,7 @@ h4, h2 {
 .recent-div a:link, .recent-div a:visited, .recent-div a:hover {
 	color: #737373;
 }
+
+a[href*="w3schools"] {
+	color: #737373;
+}
