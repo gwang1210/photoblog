@@ -48,6 +48,6 @@ h4, h2 {
 	color: #737373;
 }
 
-a[href*="w3schools"] {
+a[href*="#"] {
 	color: #737373;
 }
