@@ -44,9 +44,6 @@ a:hover {
 h4, h2 {
 	color:black;
 }
-.recent-div a:link, .recent-div a:visited, .recent-div a:hover {
-	color: #737373;
-}
 
 a[href*="#"] {
 	color: #737373;
