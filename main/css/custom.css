@@ -30,7 +30,7 @@ a:hover {
 }
 .header {
     background-color: black;
-    background: url(../home.jpg) no-repeat center center fixed; 
+    background: url(../home.jpg) no-repeat center top fixed; 
 /*     background-size: 100% auto; */
 	margin-top: 0px;
 	padding-top: 0px;
